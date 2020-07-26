@@ -1,0 +1,81 @@
+.main {
+    text-align: center;
+    background-image: url("../images/top.jpg");
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding-top: 16%;
+    margin: 14px;
+}
+
+.container {
+    width: auto;
+    height: auto;
+}
+
+.about {
+    text-align: center;
+    color: black;
+    font-weight: 600;
+}
+
+.service {
+    color: white;
+    background-image: url("../images/s_image.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 4%;
+    background-size: cover;
+    background-position: center center;
+}
+
+h4 {
+    text-align: center;
+    font-weight: bold;
+}
+
+#img-product {
+    text-align: center;
+    font-weight: bold;
+}
+
+#img-Design {
+    text-align: center;
+    font-weight: bold;
+}
+
+#img-Devt {
+    text-align: center;
+    font-weight: bold;
+}
+
+.contact {
+    background-image: url("../images/c_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 4px;
+    text-align: center;
+    color: white;
+}
+
+.form-control {
+    background: transparent;
+    color: white;
+    font-weight: bold;
+}
+
+.btn {
+    background: transparent;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}
+
+h5 {
+    text-align: center;
+    color: black;
+}
